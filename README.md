@@ -84,7 +84,7 @@ ollama pull llama3.2
 Open **PowerShell** and run:
 
 ```powershell
-git clone [https://github.com/priyanshuraj/VectorDB.git](https://github.com/priyanshuraj/VectorDB.git)
+git clone
 cd VectorDB
 ```
 
