@@ -191,6 +191,3 @@ VectorDB/
 
 ---
 
-## License
-
-MIT — use this however you want.
