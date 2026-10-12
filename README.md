@@ -1,4 +1,4 @@
-# Priyanshu Raj's Custom Vector Database — Built from Scratch in C++
+# Priyanshu Raj's AI using VectorDB
 
 A fully working Vector Database I built from scratch in C++ with a custom web UI. This project implements HNSW, KD-Tree, and Brute Force search algorithms side-by-side, along with a RAG pipeline powered by a local LLM via Ollama.
 
